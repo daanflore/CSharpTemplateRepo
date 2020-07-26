@@ -19,6 +19,6 @@ jobs:
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
     - uses: actions/checkout@v1
     - name: Build with dotnet
-      run: dotnet build ./IOwe.sln --configuration Release
+      run: dotnet build ./TemplateRepo.sln.sln --configuration Release
     - name: Test with dotnet
-      run: dotnet test ./IOwe.sln --configuration Release
+      run: dotnet test ./TemplateRepo.sln.sln --configuration Release
