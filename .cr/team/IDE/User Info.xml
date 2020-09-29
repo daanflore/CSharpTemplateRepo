@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.SystemPlugins.UserInfo.UserInfoOptions">
+  <Options Language="Neutral">
+    <Entries>
+      <Item Id="{e4b00529-33da-47e4-b53b-ab424a8451dd}">
+        <Key>First Name</Key>
+        <Value>Daan</Value>
+      </Item>
+      <Item Id="{34a55aed-72cb-44d5-99ff-49f36008ec87}">
+        <Key>Last Name</Key>
+        <Value>Flore</Value>
+      </Item>
+      <Item Id="{703b9835-638d-4273-a79c-6d5a5c69d421}">
+        <Key>Company</Key>
+        <Value></Value>
+      </Item>
+    </Entries>
+  </Options>
+</Root>
